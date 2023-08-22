@@ -1,10 +1,9 @@
 #include<iostream>
 using namespace std;
 
-int main(){
-   int n;
-   cout<<"enter a number";
-   cin>>n;
-   cout<<n;
-    
+int main()
+{
+   string s = "hello this is the test";
+   cout<<s;
+  return 0;  
 }
